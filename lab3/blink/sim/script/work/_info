@@ -1,0 +1,118 @@
+m255
+K4
+z2
+!s11e vcom 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kt6147/Downloads/lab3/lab3/blink/sim/script
+T_opt
+!s110 1789581841
+VZWRORUK[7^EJTePSg[APd0
+Z1 04 8 4 work blink_tb arch 1
+=1-b07b2521b142-6aaada11-1cc-35a8
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2019.2;69
+R0
+T_opt1
+!s110 1789584365
+VMmGC^mHzkd4GBajSe:kcK3
+R1
+=1-b07b2521b142-6aaae3ec-3a0-4094
+R2
+R3
+n@_opt1
+R4
+R0
+T_opt2
+Z5 !s110 1790792363
+V<c=`T2cX]Z=3cHZPTD6R`0
+R1
+=1-b07b2521b142-6abd52ab-252-4b2c
+R2
+R3
+n@_opt2
+R4
+Eblink
+Z6 w1789581262
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+R0
+Z9 8../../src/blink.vhd
+Z10 F../../src/blink.vhd
+l0
+L8
+VgSbeDC?JAd;]:HFX73TlZ1
+!s100 Q@N>i]_LJ6WJS3Gg1AeaQ1
+Z11 OL;C;2019.2;69
+31
+R5
+!i10b 1
+Z12 !s108 1790792363.000000
+Z13 !s90 -reportprogress|300|-93|-work|work|../../src/blink.vhd|
+Z14 !s107 ../../src/blink.vhd|
+!i113 0
+Z15 o-93 -work work
+Z16 tExplicit 1 CvgOpt 0
+Abeh
+R7
+R8
+DEx4 work 5 blink 0 22 gSbeDC?JAd;]:HFX73TlZ1
+l24
+L19
+VP23a4Dd3i:B_KMcmjUBQW2
+!s100 XaK8X88lIl<AKz91bLI_I0
+R11
+31
+R5
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Eblink_tb
+R6
+R7
+R8
+R0
+Z17 8../src/blink_tb.vhd
+Z18 F../src/blink_tb.vhd
+l0
+L8
+VaHa@?Cg=6RA0<[l9m10=d3
+!s100 4fz^0J8zCXK72OnVz_Qoz0
+R11
+31
+R5
+!i10b 1
+R12
+Z19 !s90 -reportprogress|300|-93|-work|work|../src/blink_tb.vhd|
+Z20 !s107 ../src/blink_tb.vhd|
+!i113 0
+R15
+R16
+Aarch
+R7
+R8
+DEx4 work 8 blink_tb 0 22 aHa@?Cg=6RA0<[l9m10=d3
+l29
+L11
+VL;KInh4cKG[4HBA34D45b3
+!s100 22z:EQmZ0FXeW:YdGgLjo3
+R11
+31
+R5
+!i10b 1
+R12
+R19
+R20
+!i113 0
+R15
+R16
